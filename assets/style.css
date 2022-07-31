@@ -1,0 +1,13 @@
+body{
+    margin: 0 auto;
+    max-width: 1200px;
+}
+.conteiner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 30px;
+    height: 670px;
+    width: auto;
+}
